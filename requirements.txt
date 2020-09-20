@@ -5,3 +5,4 @@ pandas==0.23.4
 numpy==1.19.1
 scikit-learn==0.22.2
 imbalanced-learn==0.4.3
+Pillow==7.0.0
